@@ -7,7 +7,7 @@
 * Your uptime
 
 
-![19fetch in action](https://github.com/Algotron/19fetch/blob/master/19fetch.png)
+![19fetch in action](https://github.com/badrien19/19fetch/blob/master/19fetch.png)
 
 # Installation
 * clone this repository anywhere you want :^)
